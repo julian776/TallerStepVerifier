@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-13T17:14:50" hostname="DESKTOP-IODVTCK" time="0.053">
+  <properties/>
+  <testcase name="testUpperCase()" classname="tests.Test" time="0.053"/>
+  <system-out><![CDATA[[DEBUG] (Test worker) Using Console logging
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
